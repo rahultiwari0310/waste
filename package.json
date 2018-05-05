@@ -1,0 +1,19 @@
+{
+  "name": "waste",
+  "version": "1.0.0",
+  "description": "Solid waste recycling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahultiwari0310/waste.git"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahultiwari0310/waste/issues"
+  },
+  "homepage": "https://github.com/rahultiwari0310/waste#readme"
+}
