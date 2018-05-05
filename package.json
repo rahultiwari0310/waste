@@ -1,19 +1,16 @@
 {
   "name": "waste",
-  "version": "1.0.0",
-  "description": "Solid waste recycling",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rahultiwari0310/waste.git"
-  },
-  "author": "Rahul",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rahultiwari0310/waste/issues"
-  },
-  "homepage": "https://github.com/rahultiwari0310/waste#readme"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
